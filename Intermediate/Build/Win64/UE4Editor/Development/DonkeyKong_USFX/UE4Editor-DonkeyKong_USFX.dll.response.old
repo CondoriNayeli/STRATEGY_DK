@@ -1,5 +1,9 @@
 /MANIFEST:EMBED
+<<<<<<< HEAD
 /MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
+=======
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -19,7 +23,11 @@
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64"
+<<<<<<< HEAD
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\lib\um\x64"
+=======
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -33,6 +41,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
+<<<<<<< HEAD
 "C:\Users\Usuario\OneDrive\sis145\STRATEGY\Intermediate\Build\Win64\DonkeyKong_USFXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\Users\Usuario\OneDrive\sis145\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Arquitecto.cpp.obj"
 "C:\Users\Usuario\OneDrive\sis145\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderNiveles.cpp.obj"
@@ -73,6 +82,42 @@
 "C:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "C:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
 "C:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+=======
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\DonkeyKong_USFXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Arquitecto.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderNiveles.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderTipoA.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderTipoB.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFX.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFXCharacter.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFXGameMode.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\EnemigoDragon.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Enemigos.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Escaleras.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\EstrategiaSenoidal.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\EstrategiaZigzag.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\IEstrategiaMovimiento.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Plataforma.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Arquitecto.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderNiveles.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderTipoA.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderTipoB.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFX.init.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFXCharacter.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFXGameMode.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\EnemigoDragon.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Enemigos.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Escaleras.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\EstrategiaSenoidal.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\EstrategiaZigzag.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\IEstrategiaMovimiento.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Plataforma.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Default.rc2.res"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -97,7 +142,13 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
+<<<<<<< HEAD
 /OUT:"C:\Users\Usuario\OneDrive\sis145\STRATEGY\Binaries\Win64\UE4Editor-DonkeyKong_USFX.dll"
 /IMPLIB:"C:\Users\Usuario\OneDrive\sis145\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\UE4Editor-DonkeyKong_USFX.suppressed.lib"
 /PDB:"C:\Users\Usuario\OneDrive\sis145\STRATEGY\Binaries\Win64\UE4Editor-DonkeyKong_USFX.pdb"
+=======
+/OUT:"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Binaries\Win64\UE4Editor-DonkeyKong_USFX.dll"
+/IMPLIB:"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\UE4Editor-DonkeyKong_USFX.suppressed.lib"
+/PDB:"C:\Users\LENOVO\Documents\PATRONES\STRATEGY\Binaries\Win64\UE4Editor-DonkeyKong_USFX.pdb"
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
 /ignore:4078

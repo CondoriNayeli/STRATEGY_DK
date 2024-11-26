@@ -3,7 +3,11 @@
   <ItemGroup>
     <None Include="..\..\DonkeyKong_USFX.uproject" />
     <Filter Include="Source">
+<<<<<<< HEAD
       <UniqueIdentifier>{85C99518-3618-460F-9AA3-2C551CC50548}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{AC4607E5-1844-4113-89FF-AE9FFE4CF0BD}</UniqueIdentifier>
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
     </Filter>
     <None Include="..\..\Source\DonkeyKong_USFX.Target.cs">
       <Filter>Source</Filter>
@@ -11,10 +15,15 @@
     <None Include="..\..\Source\DonkeyKong_USFXEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+<<<<<<< HEAD
     <None Include="..\..\.gitattributes" />
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
       <UniqueIdentifier>{BEACE2B4-CE9E-4E7F-8081-7D0E70FC29AA}</UniqueIdentifier>
+=======
+    <Filter Include="Config">
+      <UniqueIdentifier>{C72EEFB0-536E-4AE9-A061-3D8A54A3329E}</UniqueIdentifier>
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -32,7 +41,11 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\DonkeyKong_USFX">
+<<<<<<< HEAD
       <UniqueIdentifier>{E1CF2F11-FC4D-4B46-92AC-C22A867DD659}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{3A8F6A76-2D26-4CF0-A3C5-70832CD5ADDD}</UniqueIdentifier>
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
     </Filter>
     <ClCompile Include="..\..\Source\DonkeyKong_USFX\Arquitecto.cpp">
       <Filter>Source\DonkeyKong_USFX</Filter>
@@ -97,6 +110,7 @@
     <ClInclude Include="..\..\Source\DonkeyKong_USFX\Escaleras.h">
       <Filter>Source\DonkeyKong_USFX</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClCompile Include="..\..\Source\DonkeyKong_USFX\EstadoCaer.cpp">
       <Filter>Source\DonkeyKong_USFX</Filter>
     </ClCompile>
@@ -121,6 +135,8 @@
     <ClInclude Include="..\..\Source\DonkeyKong_USFX\EstrategiaInmovil.h">
       <Filter>Source\DonkeyKong_USFX</Filter>
     </ClInclude>
+=======
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
     <ClCompile Include="..\..\Source\DonkeyKong_USFX\EstrategiaSenoidal.cpp">
       <Filter>Source\DonkeyKong_USFX</Filter>
     </ClCompile>
@@ -139,12 +155,15 @@
     <ClInclude Include="..\..\Source\DonkeyKong_USFX\IEstrategiaMovimiento.h">
       <Filter>Source\DonkeyKong_USFX</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClCompile Include="..\..\Source\DonkeyKong_USFX\IPlataforma.cpp">
       <Filter>Source\DonkeyKong_USFX</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\DonkeyKong_USFX\IPlataforma.h">
       <Filter>Source\DonkeyKong_USFX</Filter>
     </ClInclude>
+=======
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
     <ClCompile Include="..\..\Source\DonkeyKong_USFX\Plataforma.cpp">
       <Filter>Source\DonkeyKong_USFX</Filter>
     </ClCompile>

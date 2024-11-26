@@ -7,10 +7,14 @@
 		{
 			"Name": "DonkeyKong_USFX",
 			"Type": "Runtime",
+<<<<<<< HEAD
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"Engine"
 			]
+=======
+			"LoadingPhase": "Default"
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
 		}
 	]
 }

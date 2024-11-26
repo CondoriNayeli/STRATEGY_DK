@@ -2,12 +2,20 @@
 	"Targets": [
 		{
 			"Name": "DonkeyKong_USFX",
+<<<<<<< HEAD
 			"Path": "C:\\Users\\Usuario\\OneDrive\\sis145\\STRATEGY\\Source\\DonkeyKong_USFX.Target.cs",
+=======
+			"Path": "C:\\Users\\Usuario\\OneDrive\\unreal\\PATRONES\\STRATEGY\\Source\\DonkeyKong_USFX.Target.cs",
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
 			"Type": "Game"
 		},
 		{
 			"Name": "DonkeyKong_USFXEditor",
+<<<<<<< HEAD
 			"Path": "C:\\Users\\Usuario\\OneDrive\\sis145\\STRATEGY\\Source\\DonkeyKong_USFXEditor.Target.cs",
+=======
+			"Path": "C:\\Users\\Usuario\\OneDrive\\unreal\\PATRONES\\STRATEGY\\Source\\DonkeyKong_USFXEditor.Target.cs",
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
 			"Type": "Editor"
 		}
 	]
