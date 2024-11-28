@@ -21,8 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeDonkeyKong_USFX_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
+<<<<<<< HEAD
+				0x379E4AC8,
+				0xDD941B2C,
+=======
 				0xF451225E,
 				0x10B83F9B,
+>>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
