@@ -2,10 +2,6 @@
 	"BuildId": "17155196",
 	"Modules": 
 	{
-<<<<<<< HEAD
-		"DonkeyKong_USFX": "UE4Editor-DonkeyKong_USFX-2673.dll"
-=======
-		"DonkeyKong_USFX": "UE4Editor-DonkeyKong_USFX-4238.dll"
->>>>>>> b1073442ac5c2ec9cdf7ee2421ed155a38262979
+		"DonkeyKong_USFX": "UE4Editor-DonkeyKong_USFX.dll"
 	}
 }
