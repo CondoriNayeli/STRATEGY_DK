@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Usuario\\OneDrive\\unreal\\PATRONES\\STRATEGY\\Source\\DonkeyKong_USFX\\DonkeyKong_USFX.Build.cs",
-		"C:\\Users\\Usuario\\OneDrive\\unreal\\PATRONES\\STRATEGY\\Source\\DonkeyKong_USFX.Target.cs",
-		"C:\\Users\\Usuario\\OneDrive\\unreal\\PATRONES\\STRATEGY\\Source\\DonkeyKong_USFXEditor.Target.cs"
+		"C:\\Users\\Usuario\\OneDrive\\assets\\STRATEGY\\Source\\DonkeyKong_USFX\\DonkeyKong_USFX.Build.cs",
+		"C:\\Users\\Usuario\\OneDrive\\assets\\STRATEGY\\Source\\DonkeyKong_USFX.Target.cs",
+		"C:\\Users\\Usuario\\OneDrive\\assets\\STRATEGY\\Source\\DonkeyKong_USFXEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
